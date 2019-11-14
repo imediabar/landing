@@ -1,0 +1,21 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../../images/young-people.jpg");
+  background-size: cover;
+  height: 650px;
+}
+
+.banner h1 {
+  color: white;
+  padding-top: 120px;
+  font-size: 60px;
+  margin-bottom: 0px;
+  margin-top: 0;
+}
+
+.banner p {
+  color: white;
+  margin-top: 8px;
+  width: fit-content;
+  font-size: 24px;
+  background: #325eca66;
+}
