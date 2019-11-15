@@ -7,5 +7,18 @@
 .container > h2 {
   font-size: 36px;
   text-align: center;
+  color: #2B3346;
   /*margin-left: 50px;*/
+}
+
+.container > h3 {
+  font-size: 28px;
+  text-align: left;
+  color: #494952;
+}
+
+.container h4 {
+  font-size: 18px;
+  text-align: center;
+  color: #494952;
 }
